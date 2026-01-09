@@ -138,3 +138,6 @@ curl -X PUT http://localhost:8080/bookings/1/cancel
 
 
 Schema is inside the code in file path src/main/resources/schema.sql
+App → http://localhost:8080
+
+MySQL → localhost:3306
